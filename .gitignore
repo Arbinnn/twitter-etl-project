@@ -1,0 +1,6 @@
+# .gitignore
+.env
+tweets.db
+__pycache__/
+*.pyc
+git add .gitignore README.md
